@@ -1,7 +1,6 @@
 # ✈️ Twitter Sentiment Analysis Using LSTM 🌟
 
-## 🚀 Overview
-- Analyze airline-related tweets 🐦 to determine customer sentiments 😊 😡 😐 using **LSTM (Long Short-Term Memory)** models. This project leverages the **Twitter US Airline Sentiment** dataset to classify tweets into **positive**, **negative**, and **neutral** sentiments.  
+Analyze airline-related tweets 🐦 to determine customer sentiments 😊 😡 😐 using **LSTM (Long Short-Term Memory)** models. This project leverages the **Twitter US Airline Sentiment** dataset to classify tweets into **positive**, **negative**, and **neutral** sentiments.  
 ---
 
 ## 📄 Dataset  
